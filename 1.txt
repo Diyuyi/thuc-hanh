@@ -1,2 +1,2 @@
-sua file
+hello word and global
 
